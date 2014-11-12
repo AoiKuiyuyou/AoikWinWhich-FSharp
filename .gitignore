@@ -1,0 +1,4 @@
+/.*
+!/.gitignore
+/src/AoikWinWhich/*
+!/src/AoikWinWhich/*.fs
